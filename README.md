@@ -476,6 +476,6 @@ The project also demonstrates an end-to-end MLOps workflow, from raw data ingest
 
 **Paolo Adame**,
 **Kelly Cyusa**,
-**Jun Kim**
+**Hojun Kim**
 
 Adult Census Income Classification — TFX & Apache Airflow Pipeline
