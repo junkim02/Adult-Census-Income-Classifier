@@ -472,7 +472,7 @@ The project also demonstrates an end-to-end MLOps workflow, from raw data ingest
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Paolo Adame**,
 **Kelly Cyusa**,
